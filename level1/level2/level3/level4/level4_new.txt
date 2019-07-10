@@ -1,0 +1,10 @@
+Inserting Data using HBase Shell
+This chapter demonstrates how to create data in an HBase table. To create data in an HBase table, the following commands and methods are used:
+
+put command,
+
+add() method of Put class, and
+
+put() method of HTable class.
+
+As an example, we are going to create the following table in HBase.
