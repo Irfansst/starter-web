@@ -11,3 +11,9 @@ wc 2019
 
 hi
 hi
+
+abcdc	abcdc
+		[CQDQ
+		SampleQBXA	Q
+		] asq	
+		qsjAS
