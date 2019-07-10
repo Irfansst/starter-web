@@ -1,5 +1,6 @@
-# Starter Web Repo
 
+# Starter Web Repo
+this is simple project to showing git and github together 
 This repository is for showing how Git and GitHub work
 
 this is simple project to showing git and github together 
@@ -10,3 +11,5 @@ Sample website with plenty of files for demos
 ## Deployments 
 this is simple project to showing git and github together 
 ##how to execute
+this is simple project to showing git and github together 
+this is simple project to showing git and github together 
