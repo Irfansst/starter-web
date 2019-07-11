@@ -18,3 +18,9 @@ this is simple project to showing git and github together
 deployment steps are below
 
 run apps using nohup ./*.sh &
+## Deployments 
+5.2
+## Deployments 
+5.3
+## Deployments 
+5.4
