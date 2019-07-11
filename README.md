@@ -13,3 +13,8 @@ this is simple project to showing git and github together
 ##how to execute
 this is simple project to showing git and github together 
 this is simple project to showing git and github together 
+
+
+deployment steps are below
+
+run apps using nohup ./*.sh &
