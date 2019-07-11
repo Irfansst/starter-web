@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Irfan Khan Irfansjbcse@gmail.com @IrfanSjbcse
 
 # THANKS
 
