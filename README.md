@@ -3,6 +3,7 @@
 this is simple project to showing git and github together 
 This repository is for showing how Git and GitHub work
 
+Adding line for rebase git example
 this is simple project to showing git and github together 
 ## Purpose
 Please fork this repository
