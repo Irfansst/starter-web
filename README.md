@@ -1,3 +1,4 @@
+example for stash
 adding new line ofr rebase
 # Starter Web Repo
 this is simple project to showing git and github together 
