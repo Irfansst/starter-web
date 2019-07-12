@@ -1,4 +1,4 @@
-
+adding new line ofr rebase
 # Starter Web Repo
 this is simple project to showing git and github together 
 This repository is for showing how Git and GitHub work
